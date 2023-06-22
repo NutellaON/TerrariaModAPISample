@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bob\\source\\repos\\TerrariaAPI\\TerrariaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\bob\\Source\\Repos\\TerrariaModAPISample\\TerrariaAPI.csproj",
       "projectName": "TerrariaAPI",
-      "projectPath": "C:\\Users\\bob\\source\\repos\\TerrariaAPI\\TerrariaAPI.csproj",
+      "projectPath": "C:\\Users\\bob\\Source\\Repos\\TerrariaModAPISample\\TerrariaAPI.csproj",
       "packagesPath": "C:\\Users\\bob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bob\\source\\repos\\TerrariaAPI\\obj\\",
+      "outputPath": "C:\\Users\\bob\\Source\\Repos\\TerrariaModAPISample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bob\\AppData\\Roaming\\NuGet\\NuGet.Config",
