@@ -15,5 +15,10 @@
         public string UseAnimation { get; set; }
         public int UseTime { get; set; }
         public string Tooltip { get; set; }
+
+        public Accessory Accessory { get; set; }
+        public Weapon Weapon { get; set; }
+        public Armor Armor { get; set; }
+        public ICollection<CraftingRecipe> CraftingRecipes { get; set; }
     }
 }

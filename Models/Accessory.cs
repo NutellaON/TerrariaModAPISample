@@ -5,6 +5,6 @@
         public int AccessoryId { get; set; }
         public int ItemId { get; set; }
         public string AccessoryType { get; set; }
-
+        public Item Item { get; set; }
     }
 }

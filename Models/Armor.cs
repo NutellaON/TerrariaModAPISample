@@ -6,5 +6,6 @@
         public int ItemId { get; set; }
         public int Defense { get; set; }
         public string SetBonus { get; set; }
+        public Item Item { get; set; }
     }
 }
