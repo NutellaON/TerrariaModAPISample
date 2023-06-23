@@ -2,7 +2,7 @@
 {
     public class CraftingRecipe
     {
-        public int RecipeId { get; set; }
+        public int Id { get; set; }
         public int ResultItemId { get; set; }
         public int ResultQuantity { get; set; }
         public Item ResultItem { get; set; }
